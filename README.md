@@ -12,7 +12,7 @@ each following line containg one dataset.
 # raw_data.csv
 This file contains the raw data of the experiment.
 
-| Column Name | Unit    | Description                       |
+| Column Name | Datatype    | Description                       |
 |-------------|---------|-----------------------------------|
 | subject     | integer | The subject ID (1-6)              |
 | bw          | float   | The stimulus bandwidth in Hz      |
@@ -24,9 +24,9 @@ This file contains the raw data of the experiment.
 This file contains the changeover points that where derived from the
 raw data.
 
-| Column Name  | Unit    | Description                 |
-|--------------|---------|-----------------------------|
-| subject      | integer | The subject ID (1-6)        |
-| exp          | string  | Name of the experiment      |
-| exp_group    | string  | Group of the experiment     |
-| change_point | float   | The change over point in Hz |
+| Column Name  | Datatype | Description                 |
+|--------------|----------|-----------------------------|
+| subject      | integer  | The subject ID (1-6)        |
+| exp          | string   | Name of the experiment      |
+| exp_group    | string   | Group of the experiment     |
+| change_point | float    | The change over point in Hz |
