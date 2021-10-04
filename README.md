@@ -3,10 +3,9 @@
 
 This Repository contains the original as well as derived data for the paper:
 
-Encke, Jörg & Dietz Mathias (2020). The influence of envelope
-fluctuations on across-frequency integration in interaural time
-difference perception. The Journal of the Acoustical Society of
-America. (In review)
+Encke, Jörg & Dietz Mathias (2021). Influence of envelope fluctuation on the lateralization
+of interaurally delayed low-frequency stimuli. The Journal of the Acoustical Society of
+America. 
 
 The repository contains two files both formated as comma seperated
 values. The first line of each file contains the column names with
